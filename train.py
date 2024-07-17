@@ -16,7 +16,7 @@ from torchvision import transforms
 from torch.utils import data
 import matplotlib.pyplot as plt
 import pandas as pd
-from tqdm.rich import tqdm
+from tqdm import tqdm
 from model import AlexNet
 
 
